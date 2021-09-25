@@ -1,0 +1,12 @@
+--- N° Manifeste Poggit-CI. Ouvrez l’IC à https://poggit.pmmp.io/ci/supercrafter333/theSpawn
+build-by-default: true
+succursales:
+- maître
+- Dev
+- PM4
+projets:
+  testpm4:
+    icône:  "icône.png» 
+    chemin: ""
+    php: 8.0
+© 2021 GitHub, Inc.
